@@ -1,0 +1,10 @@
+.sec-1 {
+  height: clamp(450px, 50vh, 900px);
+  background-color: var(--primary-bg-color) !important;
+  padding-inline: clamp(50px, 10vw, 300px);
+}
+.sec-2 {
+  min-height: clamp(1250px, 50vh, 1400px);
+  background-color: var(--primary-text-color) !important;
+  padding-inline: clamp(50px, 10vw, 300px);
+}

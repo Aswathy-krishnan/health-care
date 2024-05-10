@@ -1,0 +1,14 @@
+.about-us{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    padding-block: 10vh;
+}
+.about-us-button{
+    width: 150px;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    border: 1px solid whitesmoke;
+
+}

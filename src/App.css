@@ -1,0 +1,21 @@
+:root {
+  --primary-bg-color: #e8fafb;
+  --secondary-bg-color: #1dcad3;
+  --primary-text-color: #0a4a7b;
+}
+.main {
+ 
+}
+.p-bg-c {
+    background-color: var(--primary-bg-color);
+}
+.s-bg-c {
+  background-color: var(--secondary-bg-color) !important;
+}
+
+.p-t-c {
+  color: var(--primary-text-color);
+}
+.c-pointer{
+    cursor: pointer;
+}
